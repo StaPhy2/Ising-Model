@@ -6,3 +6,5 @@ The Ising model runs on Python 3. Requires `pip`.
 
 Install dependencies with:
 `pip install -r requirements.txt`
+
+Run with `python3 isingm.py`
